@@ -1,0 +1,101 @@
+name;company;technology;job;location_city;location_country;salary_low;salary_high;salary_currency;salary_avg;is_senior
+senior cloud data engineer;SEB (Skandinaviska Enskilda Banken);Python;data engineer;warszawa;PL;30000;35000;PLN;32500.0;1
+senior data engineer;SEB (Skandinaviska Enskilda Banken);Python;data engineer;warszawa;PL;34000;37000;PLN;35500.0;1
+mid data engineer;Green Minds Sp.z o.o.;Python;data engineer;remote;;25200;30240;PLN;27720.0;0
+data engineer (snowflake);GetInData | Part of Xebia;Snowflake;data engineer;remote;;18480;26880;PLN;22680.0;0
+data engineer (dataiku/linkurious);Sopra Steria - Apps Services;Dataiku;data engineer;remote;;16000;21000;PLN;18500.0;0
+data engineer;Devire Sp. z o.o.;Python;data engineer;remote;;18480;25000;PLN;21740.0;0
+data engineer;N-iX;Python;data engineer;remote;;16742;20091;PLN;18416.5;0
+cloud data architect (gcp/azure);Elitmind;GCP;data engineer;remote;;24024;31920;PLN;27972.0;0
+azure data architect;Avenga;Azure;data engineer;remote;;30200;35200;PLN;32700.0;0
+power bi (data) developer;Avanade Poland;;data engineer;kraków;PL;19320;29400;PLN;24360.0;0
+big data developer;Avenga;Python;data engineer;warszawa;PL;20160;23520;PLN;21840.0;0
+data platform architect (azure);GetInData | Part of Xebia;Azure;data engineer;remote;;33600;40320;PLN;36960.0;0
+data architect;IDBC Creative Solutions Kft.;Big Data;data engineer;budapest;HU;18705;21043;PLN;19874.0;0
+tester etl;Team Connect Sp. z o.o.;SQL;data engineer;remote;;15000;20000;PLN;17500.0;0
+power bi developer/data analyst;Objectivity - part of Accenture;;data engineer;remote;;15960;21168;PLN;18564.0;0
+big data / scala developer;Sii Polska;Scala;data engineer;remote;;17640;35280;PLN;26460.0;0
+data consultant/ developer;Netcompany Poland;SQL;data engineer;warszawa;PL;9000;15000;PLN;12000.0;0
+etl developer;Devire;;data engineer;remote;;16000;23000;PLN;19500.0;0
+big data developer (scylladb/cassandra);Piwik PRO;Rust;data engineer;remote;;17000;24000;PLN;20500.0;0
+junior python developer - data pipeline specialist;juucy;Python;data engineer;remote;;12000;12000;PLN;12000.0;0
+"m&lstrok;odszy analityk danych";Avenga;;data analyst;warszawa;PL;7560;9240;PLN;8400.0;0
+data analyst (f/m/d) for power bi;DATAGROUP Polska Sp. z o.o.;Power BI;data analyst;remote;;6000;12000;PLN;9000.0;0
+data analytics catalog engineer/analyst;MSD;Python;data analyst;prague;CZ;14576;20042;PLN;17309.0;0
+data analytics catalog engineer/analyst;MSD;Python;data analyst;prague;CZ;14576;20042;PLN;17309.0;0
+business data analyst / bi /salesforce;Object First;;data analyst;wrocław;PL;16742;18835;PLN;17788.5;0
+senior product data analyst;Beekeeper AG;SQL;data analyst;remote;;16666;22500;PLN;19583.0;1
+remote senior data analyst elastic/opensearch;Kellton Poland sp. z o.o.;Python;data analyst;remote;;20000;25000;PLN;22500.0;1
+business data analyst / bi engineer;NIX Tech Kft.;;data analyst;budapest;HU;9352;12860;PLN;11106.0;0
+marketing data senior analyst/marketing automation;AI REV;;data analyst;remote;;22680;31584;PLN;27132.0;1
+data analyst;Link Group;SQL;data analyst;remote;;16000;21000;PLN;18500.0;0
+power bi developer/data analyst;Objectivity - part of Accenture;;data analyst;remote;;15960;21168;PLN;18564.0;0
+business data analyst / bi /salesforce;Object First;;data analyst;wrocław;PL;16742;20928;PLN;18835.0;0
+data analyst/ business analyst;Avenga;;data analyst;remote;;16800;20100;PLN;18450.0;0
+data analyst ( igaming industry);Trueplay;;data analyst;warszawa;PL;10464;14649;PLN;12556.5;0
+marketing data analyst;Murka Games Limited;;data analyst;remote;;12557;18835;PLN;15696.0;0
+senior data analyst team lead;Devire Sp. z o.o.;SQL;data analyst;kraków;PL;16000;21000;PLN;18500.0;1
+internships in it - bsa, data analyst, ui, devops;Grid Dynamics;;data analyst;kraków;PL;3600;3600;PLN;3600.0;0
+analityk danych marketingowych;Grafton Recruitment;;data analyst;warszawa;PL;10000;13000;PLN;11500.0;0
+iam platform operations analyst;Digital Hub Warsaw at Bayer;;data analyst;warszawa;PL;12000;22000;PLN;17000.0;0
+product analyst;STS S.A.;;data analyst;katowice;PL;10000;13000;PLN;11500.0;0
+analityk baz danych oracle;PKO Finat Sp. z o.o.;;data analyst;warszawa;PL;23000;23000;PLN;23000.0;0
+senior data engineer (azure);GetInData | Part of Xebia;Azure;data engineer;remote;;26880;33600;PLN;30240.0;1
+senior data platform engineer;GetInData | Part of Xebia;Python;data engineer;remote;;25200;31080;PLN;28140.0;1
+big data engineer;Lingaro;;data engineer;remote;;21840;28560;PLN;25200.0;0
+senior data engineer;AVENGA;Python;data engineer;remote;;25200;28560;PLN;26880.0;1
+data analytics catalog engineer/analyst;MSD;Python;data engineer;prague;CZ;14576;20042;PLN;17309.0;0
+data analytics catalog engineer/analyst;MSD;Python;data engineer;prague;CZ;14576;20042;PLN;17309.0;0
+data engineer;Avenga;AWS;data engineer;remote;;21000;22680;PLN;21840.0;0
+data engineer;Connectis_;SQL;data engineer;warszawa;PL;23000;26000;PLN;24500.0;0
+data engineer in microsoft azure cloud;Avanade Poland;Python;data engineer;remote;;19320;29400;PLN;24360.0;0
+data engineer;Avenga;;data engineer;remote;;26700;29700;PLN;28200.0;0
+senior data engineer;Avenga;;data engineer;warszawa;PL;30240;33600;PLN;31920.0;1
+data engineer;Develocraft;Scala;data engineer;remote;;17000;22000;PLN;19500.0;0
+senior data engineer;Develocraft;Python;data engineer;remote;;23000;28500;PLN;25750.0;1
+data engineer;HL Tech;Python;data engineer;warszawa;PL;12000;16000;PLN;14000.0;0
+azure databricks data engineer;Nordcloud;Python;data engineer;remote;;20000;30000;PLN;25000.0;0
+azure data engineer;ASTEK Polska;;data engineer;remote;;18480;25200;PLN;21840.0;0
+remote data engineer (java/scala);Varwise;Spark;data engineer;remote;;28044;38508;PLN;33276.0;0
+remote senior data engineer (java/scala);Varwise;Spark;data engineer;remote;;35578;43949;PLN;39763.5;1
+mid/senior data engineer (gcp);GetInData;Google Cloud Platform;data engineer;remote;;18480;30240;PLN;24360.0;1
+senior data engineer;Beekeeper AG;Python;data engineer;remote;;21666;32083;PLN;26874.5;1
+senior data scientist remote 🌍;Sigmoidal LLC;Python;data scientist;remote;;28462;35369;PLN;31915.5;1
+senior data scientist (generative ai);Onwelo Sp. z o.o.;Python;data scientist;remote;;21000;25200;PLN;23100.0;1
+data scientist (forecasting);Lingaro;Python;data scientist;remote;;21840;25200;PLN;23520.0;0
+senior data scientist;SKY ENGINE AI;;data scientist;warszawa;PL;20000;28000;PLN;24000.0;1
+data scientist (junior/mid);Addepto;Python;data scientist;remote;;7000;12600;PLN;9800.0;0
+senior data scientist;Reply Polska;Python;data scientist;katowice;PL;16000;22000;PLN;19000.0;1
+senior data scientist;SEB (Skandinaviska Enskilda Banken);Python;data scientist;warszawa;PL;22000;27000;PLN;24500.0;1
+senior data scientist - generative ai;SoftServe;Python;data scientist;remote;;20000;30000;PLN;25000.0;1
+senior data scientist;hubQuest;Python;data scientist;remote;;28500;35000;PLN;31750.0;1
+data scientist;Link Group;SQL;data scientist;remote;;18000;24000;PLN;21000.0;0
+tech lead data scientist;Adform Sp. z o.o.;;data scientist;warszawa;PL;23700;32200;PLN;27950.0;0
+senior data scientist;Link Group;Python;data scientist;warszawa;PL;20000;30000;PLN;25000.0;1
+data scientist;Avenga;Python;data scientist;remote;;21840;23520;PLN;22680.0;0
+data scientist;Numlabs;Python;data scientist;remote;;9000;14000;PLN;11500.0;0
+senior data scientist;in4ge sp. z o.o.;;data scientist;remote;;20000;28000;PLN;24000.0;1
+data scientist ( mid / senior );Addepto;Python;data scientist;remote;;13000;26000;PLN;19500.0;1
+data scientist (computer vision);Onwelo Sp. z o.o.;Python;data scientist;remote;;15750;21000;PLN;18375.0;0
+senior generative ai data scientist;Spyrosoft;Python;data scientist;wrocław;PL;18480;26880;PLN;22680.0;1
+lead data science consultant;SoftServe;AWS;data scientist;remote;;28000;34000;PLN;31000.0;0
+data engineer (etl, python, sql);Crestt;Python;data engineer;warszawa;PL;21000;29400;PLN;25200.0;0
+mid data engineer;Digital Hub Warsaw at Bayer;AWS;data engineer;warszawa;PL;14000;20500;PLN;17250.0;0
+business data analyst / bi engineer;NIX Tech Kft.;;data engineer;budapest;HU;9352;12860;PLN;11106.0;0
+data engineer;Photon Energy Group;;data engineer;remote;;22000;26000;PLN;24000.0;0
+big data engineer - data & ai;Allegro;;data engineer;warszawa;PL;12300;17600;PLN;14950.0;0
+data engineer;hubQuest;Python;data engineer;remote;;30000;37000;PLN;33500.0;0
+gcp data engineer;Mindbox S.A.;SQL;data engineer;kraków;PL;29400;35700;PLN;32550.0;0
+remote senior data engineer;Kingfisher plc.;Python;data engineer;remote;;22000;25000;PLN;23500.0;1
+data engineer (financial crime);SEB (Skandinaviska Enskilda Banken);Python;data engineer;warszawa;PL;28000;34000;PLN;31000.0;0
+data platform engineer/consultant;Elitmind;;data engineer;remote;;13944;19992;PLN;16968.0;0
+data engineer with aws & pbi;Sigma IT Poland;;data engineer;remote;;19000;21800;PLN;20400.0;0
+senior data engineer with python;Objectivity - part of Accenture;Python;data engineer;remote;;21840;26040;PLN;23940.0;1
+senior data engineer with databricks;Objectivity - part of Accenture;Databricks;data engineer;remote;;21840;26040;PLN;23940.0;1
+senior data engineer with snowflake;Objectivity - part of Accenture;;data engineer;remote;;21840;26040;PLN;23940.0;1
+mid data & ai engineer - fully remote;Nest Bank;Big DATA;data engineer;remote;;15000;22000;PLN;18500.0;0
+remote data engineer;Connectis_;Azure;data engineer;remote;;30000;35000;PLN;32500.0;0
+senior data engineer;Devire;Python;data engineer;remote;;30240;33600;PLN;31920.0;1
+senior data engineer;Brainly Sp. z o.o.;Python;data engineer;remote;;20000;28000;PLN;24000.0;1
+senior data engineer;NIX Tech Kft.;;data engineer;budapest;HU;11691;23382;PLN;17536.5;1
+data platform engineer (infrastructure / dataops);HL Tech;AWS;data engineer;warszawa;PL;13000;18500;PLN;15750.0;0
